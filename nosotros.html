@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html >
+<html lang="es"><!-- InstanceBegin template="/Templates/plantilla.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>GRID</title>
+  <!-- InstanceEndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="estiloGrid.css">
+
+    <!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+
+  <body>
+  <main>
+  	<header>
+  	  <figure>
+		<img src="imagenespisos/logo.png" alt="logotipo Pisos perfectos"/>
+		<figcaption>
+		 Pisos perfectos<span>Belleza desde la superficie</span>
+	    </figcaption>
+	  </figure>
+  	</header>
+  	<nav>
+  	  <ul id="menuNav">
+		<li><a href="index.html" title="Enlace generico">Inicio</a></li>
+		<li><a href="productos.html" title="Enlace generico">Nuestros productos</a>
+		<ul><li><a href="#" title="Enlace generico">Marcas</a></li></ul></li>
+		<li><a href="nosotros.html" title="Enlace generico">Nosotros</a></li>
+		<li><a href="#" title="Enlace generico">Contactos</a></li>
+		</ul>
+  	</nav>
+  	<!-- InstanceBeginEditable name="EditRegion3" -->
+    <section id="editable">
+      <h1 class="nosotros-item0">Nosotros</h1>
+      <div class="nosotros-item1">
+        <img src="imagenespisos/nosotros.PNG" alt="Descripcion de la imagen"/>
+      </div>
+      <div class="nosotros-item2">
+        <p>
+          Párrafo. Haz clic para editar y agregar tu propio texto. Es fácil. Haz clic en Editar Texto o doble clic aquí para agregar tu contenido y cambiar la fuente. Puedes arrastrar y soltar este texto donde sea que quieras en tu página. En este espacio puedes contar tu historia y permitir a tus usuarios saber más sobre ti.
+          Párrafo. Haz clic para editar y agregar tu propio texto. Es fácil. Haz clic en Editar Texto o doble clic aquí para agregar tu contenido y cambiar la fuente. Puedes arrastrar y soltar este texto donde sea que quieras en tu página. En este espacio puedes contar tu historia y permitir a tus usuarios saber más sobre ti.
+        </p>
+      </div>
+    </section>
+  	<!-- InstanceEndEditable -->
+    <footer>
+  		<p>&copy;2019 Curso CIPSA</p>
+  	</footer>
+    </main>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script type="text/javascript">
+  $("#menuNav").before('<div id="movil">&#9776;</div>');
+  $("#movil").click(function(){
+    $("#menuNav").toggle();
+  });
+  $(window).resize(function(){
+    if(window.innerWidth > 768) {
+      $("#menuNav").removeAttr("style");
+    }
+  });
+</script>
+  </body>
+<!-- InstanceEnd --></html>

@@ -1,0 +1,500 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"border-to",
+				"border-top-color\tproperty"
+			],
+			[
+				"ba",
+				"background-repeat\tproperty"
+			],
+			[
+				"b",
+				"background-image\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"m-",
+				"ml-auto"
+			],
+			[
+				"bo",
+				"border-color\tproperty"
+			],
+			[
+				"c",
+				"col-sm-4"
+			],
+			[
+				"col-",
+				"col-sm-6"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"gri",
+				"inline-grid\tdisplay"
+			],
+			[
+				"g",
+				"grid-row\tproperty"
+			],
+			[
+				"gr",
+				"grid-area\tproperty"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"boderc",
+				"border-color\tproperty"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"padi",
+				"padding-top\tproperty"
+			],
+			[
+				"grid-co",
+				"grid-column\tproperty"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"ite",
+				"item3"
+			],
+			[
+				"it",
+				"item2"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"im",
+				"imagenespisos"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"bl",
+				"black"
+			],
+			[
+				"p",
+				"position\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"bor",
+				"border-bottom-style\tproperty"
+			],
+			[
+				"sp",
+				"space-between\tjustify-content"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"in",
+				"inline-grid\tdisplay"
+			],
+			[
+				"grid-colu",
+				"grid-auto-columns\tproperty"
+			],
+			[
+				"grid-te",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"GRI",
+				"grid-column-gap\tproperty"
+			],
+			[
+				"grid",
+				"grid-auto-rows\tproperty"
+			],
+			[
+				"i",
+				"inline-block\tdisplay"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"border-t",
+				"border-top-left-radius\tproperty"
+			],
+			[
+				"m",
+				"margin-left\tproperty"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"f",
+				"float\tproperty"
+			],
+			[
+				"align",
+				"align-self\tproperty"
+			],
+			[
+				"ali",
+				"vertical-align\tproperty"
+			],
+			[
+				"d",
+				"display\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <title>Bootstrap Example</title>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n  <link rel=\"stylesheet\" href=\"bootstrap.min.css\">\n  <link rel=\"stylesheet\" type=\"text/css\" href=\"estiloPedro.css\">\n  <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css\">\n  <script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js\"></script>\n  <script src=\"https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js\"></script>\n  <script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js\"></script>\n</head>\n<body>\n\n<header class=\"navbar  navbar-dark navbar-expand-lg\">\n  <!-- Brand/logo -->\n  <a class=\"navbar-brand  href=\"index.html\">\n    <img src=\"imagenes/logo.png\" alt=\"Logo\"/>\n  </a>\n  \n  <!-- Links -->\n  <ul class=\"navbar-nav ml-auto  mr-2\">\n    <span class=\"navbar-text\">\n    121 Wallstreet Street, NY , USA\n    </span>\n    <span class=\"navbar-text\">\n    Email:info@beclinic.com\n    </span>\n    <li class=\"nav-item\">\n      <a class=\"nav-link\" href=\"#\">\n       <i class=\"fa fa-linkedin fa-lg fa-inverse\" style=\"background:none;\" >\n       </i>\n      </a>\n    </li>\n    <li class=\"nav-item\">\n      <a class=\"nav-link\" href=\"#\">\n       <i class=\"fa fa-twitter fa-lg fa-inverse\" style=\"background:none;\" >\n       </i>\n      </a>\n    </li>\n    <li class=\"nav-item\">\n      <a class=\"nav-link\" href=\"#\">\n       <i class=\"fa fa-facebook fa-lg fa-inverse\" style=\"background:none;\" >\n       </i>\n      </a>\n    </li>\n    <li class=\"nav-item\">\n      <a class=\"nav-link\" href=\"#\">\n       <i class=\"fa fa-instagram fa-lg fa-inverse\" style=\"background:none;\" >\n       </i>\n      </a>\n    </li>\n  </ul>\n</header>\n\n<nav class=\"container-fluid py-lg-2\">\n  <div class=\"row\">\n    <div class=\"col-lg-6\">\n     <div class=\"navbar navbar-expand-lg\">\n     <ul class=\"navbar-nav \">\n     <li class=\"nav-item dropdown\">\n      <a class=\"nav-link dropdown-toggle\" href=\"#\" id=\"navbardrop\" data-toggle=\"dropdown\">\n        Home\n      </a>\n      <div class=\"dropdown-menu\">\n        <a class=\"dropdown-item\" href=\"#\">Link 1</a>\n        <a class=\"dropdown-item\" href=\"#\">Link 2</a>\n        <a class=\"dropdown-item\" href=\"#\">Link 3</a>\n      </div>\n     </li>\n     <li class=\"nav-item dropdown\">\n      <a class=\"nav-link dropdown-toggle\" href=\"#\" id=\"navbardrop\" data-toggle=\"dropdown\">\n        Home\n      </a>\n      <div class=\"dropdown-menu\">\n        <a class=\"dropdown-item\" href=\"#\">Link 1</a>\n        <a class=\"dropdown-item\" href=\"#\">Link 2</a>\n        <a class=\"dropdown-item\" href=\"#\">Link 3</a>\n      </div>\n     </li>\n     <li class=\"nav-item dropdown\">\n      <a class=\"nav-link dropdown-toggle\" href=\"#\" id=\"navbardrop\" data-toggle=\"dropdown\">\n        Home\n      </a>\n      <div class=\"dropdown-menu\">\n        <a class=\"dropdown-item\" href=\"#\">Link 1</a>\n        <a class=\"dropdown-item\" href=\"#\">Link 2</a>\n        <a class=\"dropdown-item\" href=\"#\">Link 3</a>\n      </div>\n     </li>\n     <li class=\"nav-item dropdown\">\n      <a class=\"nav-link dropdown-toggle\" href=\"#\" id=\"navbardrop\" data-toggle=\"dropdown\">\n        Home\n      </a>\n      <div class=\"dropdown-menu\">\n        <a class=\"dropdown-item\" href=\"#\">Link 1</a>\n        <a class=\"dropdown-item\" href=\"#\">Link 2</a>\n        <a class=\"dropdown-item\" href=\"#\">Link 3</a>\n      </div>\n     </li>\n     <li class=\"nav-item dropdown\">\n      <a class=\"nav-link dropdown-toggle\" href=\"#\" id=\"navbardrop\" data-toggle=\"dropdown\">\n        Home\n      </a>\n      <div class=\"dropdown-menu\">\n        <a class=\"dropdown-item\" href=\"#\">Link 1</a>\n        <a class=\"dropdown-item\" href=\"#\">Link 2</a>\n        <a class=\"dropdown-item\" href=\"#\">Link 3</a>\n      </div>\n     </li>\n    </ul>\n    </div>\n    </div>\n    <div class=\"col-lg-3 py-lg-2 text-center\">\n      <span class=\"navbar-text\">\n        <p class=\"text-muted h3\">(800)<strong>123 4567</strong></p>\n      </span>\n    </div>\n    <div class=\"col-lg-3 py-lg-2 lg-auto\">\n      <a class=\"btn btn-primary btn-lg text-uppercase\" href=\"#\" role=\"button\">\n        <small>Make an appoitment</small>\n      </a>\n    </div>\n\n  </div>\n</nav>\n\n<section class=\"container-fluid\">\n<div class=\"row\">\n  <div class=\"col-lg-12\">\n  <div id=\"demo\" class=\"carousel slide\" data-ride=\"carousel\" >\n  <ul class=\"carousel-indicators\">\n    <li data-target=\"#demo\" data-slide-to=\"0\" class=\"active\"></li>\n    <li data-target=\"#demo\" data-slide-to=\"1\"></li>\n    <li data-target=\"#demo\" data-slide-to=\"2\"></li>\n  </ul>\n  <div class=\"carousel-inner\">\n    <div class=\"carousel-item active\">\n      <img src=\"imagenes/img1.jpg\" alt=\"Los Angeles\" width=\"1100\" height=\"500\" >\n      <div class=\"carousel-caption\">\n        <h3 class=\"float-right\" >With a Touch of Kindness</h3>\n        <p>We had such a great time in LA!</p>\n      </div>   \n    </div>\n    <div class=\"carousel-item\">\n      <img src=\"imagenes/img2.jpg\" alt=\"Chicago\" width=\"1100\" height=\"500\">\n      <div class=\"carousel-caption\">\n        <h3>Chicago</h3>\n        <p>Thank you, Chicago!</p>\n      </div>   \n    </div>\n    <div class=\"carousel-item\">\n      <img src=\"imagenes/img3.jpg\" alt=\"New York\" width=\"1100\" height=\"500\" >\n      <div class=\"carousel-caption\">\n        <h3>New York</h3>\n        <p>We love the Big Apple!</p>\n      </div>   \n    </div>\n  </div>\n  <a class=\"carousel-control-prev\" href=\"#demo\" data-slide=\"prev\">\n    <span class=\"carousel-control-prev-icon\"></span>\n  </a>\n  <a class=\"carousel-control-next\" href=\"#demo\" data-slide=\"next\">\n    <span class=\"carousel-control-next-icon\"></span>\n  </a>\n  \n  </div>\n</div>\n</div>\n</section>\n\n<section class=\"container-fluid section2\">\n<div class=\"row\">\n <div class=\"col-sm-4 mono \">\n<img src=\"imagenes/mono.png\">\n</div>\n<div class=\"col-sm-4 mono1 \">\n<img src=\"imagenes/mono.png\">\n</div>\n<div class=\"col-sm-4 mono \">\n<img src=\"imagenes/mono.png\">\n</div>\n</div>\n</section>\n\n<section class=\"container-fluid section3\">\n<div class=\"row\">\n  <div class=\"col-sm-6\" style=\"background-color:lavender;\"></div>\n  <div class=\"col-sm-6\" style=\"background-color:orange;\">.col</div>\n</div>\n</section>\n\n</body>\n</html>\n",
+			"file": "/C/Users/Alina/Documents/ejemploPedro/index.html",
+			"file_size": 6452,
+			"file_write_time": 132110736255226879,
+			"settings":
+			{
+				"buffer_size": 6252,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Alina/Documents/ejemploPedro/estiloPedro.css",
+			"settings":
+			{
+				"buffer_size": 500,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 63.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Alina/Desktop/BeCLINIC – WordPress Theme_files/animations.css",
+		"/C/Users/Alina/Desktop/BeCLINIC – WordPress Theme_files/css",
+		"/C/Users/Alina/Desktop/BeCLINIC – WordPress Theme_files/style-frontend.css",
+		"/C/Users/Alina/Desktop/BeCLINIC – WordPress Theme_files/grid.css",
+		"/C/Users/Alina/Desktop/BeCLINIC – WordPress Theme_files/dashicons.min.css",
+		"/C/Users/Alina/Desktop/BeCLINIC – WordPress Theme_files/cherry-services-theme.css",
+		"/C/Users/Alina/Desktop/BeCLINIC – WordPress Theme_files/animations.min.css",
+		"/C/Users/Alina/Documents/ejemploBoostrap/miEstiloBoostrap.css",
+		"/C/Users/Alina/Documents/ejemploBoostrap/miEjemploBoostrap.html",
+		"/C/Users/Alina/Desktop/ejemplo-sass/koala-config.json",
+		"/C/Users/Alina/Desktop/ejemplo-sass/output.css",
+		"/C/Users/Alina/Desktop/ejemplo-sass/input.scss",
+		"/C/Users/Alina/Desktop/ejemplo-sass/estilo-sass.css",
+		"/C/Users/Alina/Desktop/ejemplo-sass/estilos-scss.scss",
+		"/C/Users/Alina/Desktop/ejemplo-sass/estilo-sass.min.css",
+		"/C/Users/Alina/Documents/ejemploBoostrap/estilo-sass.css",
+		"/C/Users/Alina/Documents/ejemploBoostrap/estilos-scss.scss",
+		"/C/Users/Alina/Documents/ejemploGrid/estiloGrid.css",
+		"/C/Users/Alina/Documents/ejemploGrid/productos.html",
+		"/C/Users/Alina/Documents/ejemploGrid/nosotros.html",
+		"/C/Users/Alina/Documents/ejemploGrid/index.html",
+		"/C/Users/Alina/Documents/ejemploGrid/plantilla.html",
+		"/C/Users/Alina/Downloads/extra-strength-responsive-grids-master/index.html",
+		"/C/Users/Alina/Desktop/CANVASVA/sitio-canvasva/previa.html",
+		"/C/Users/Alina/Desktop/CANVASVA/sitio-canvasva/estilos.css",
+		"/D/material CSS/mio CCS/estructura5.html",
+		"/D/material CSS/mio CCS/estructura4.html",
+		"/D/material CSS/mio CCS/estructura3.html",
+		"/D/material CSS/mio CCS/estructura2.html",
+		"/D/material CSS/mio CCS/estructura1.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\t\t\t\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Alina/Documents/ejemploPedro/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6252,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5830,
+								5830
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "/C/Users/Alina/Documents/ejemploPedro/estiloPedro.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 500,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								463,
+								463
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 108.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.527086383601,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "gridProject.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
